@@ -6,5 +6,3 @@ Python Library for Programming
 <br/>
 
 # Contents
-- - -
-
